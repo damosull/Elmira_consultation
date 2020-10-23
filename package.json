@@ -1,0 +1,6 @@
+{
+  "name": "ProtractorTutorial",
+  "dependencies": {
+    "protractor": "^7.0.0"
+  }
+}
